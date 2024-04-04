@@ -1,0 +1,38 @@
+execution being started
+driver is launched
+calling chromebowser
+url failed
+women is clicked
+execution being started
+driver is launched
+calling chromebowser
+url failed
+women is clicked
+execution being started
+driver is launched
+calling chromebowser
+url failed
+women is clicked
+execution being started
+driver is launched
+calling chromebowser
+url failed
+exception is found
+java.lang.Exception: element not found
+	at log4j.Browser_launched_1.main(Browser_launched_1.java:38) [classes/:?]
+execution being started
+driver is launched
+calling chromebowser
+url failed
+women is clicked
+execution being started
+driver is launched
+calling chromebowser
+url failed
+women is clicked
+execution being started
+driver is launched
+calling chromebowser
+execution being started
+driver is launched
+calling chromebowser
